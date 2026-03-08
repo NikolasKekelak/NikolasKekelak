@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nikolas 👋
 
-<!--
-**NikolasKekelak/NikolasKekelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at FIIT STU  
+💻 Interested in Compilers, Operating Systems and AI  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Turing Machine Simulator
+- BDD Boolean Simplifier
+- Genetic Algorithm for TSP
+- Code Fuzzer Generator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages
+C • C++ • Java • Kotlin • Python • Rust
+
+## 🌐 Website
+https://nikolaskekelak.github.io
+
+## 📊 GitHub Stats
+![Nikolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasKekelak&show_icons=true)
