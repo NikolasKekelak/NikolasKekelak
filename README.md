@@ -5,9 +5,12 @@
 
 ## 🚀 Projects
 - Turing Machine Simulator
-- BDD Boolean Simplifier
-- Genetic Algorithm for TSP
-- Code Fuzzer Generator
+- Hephaestus - Text Editor written in Rust and Lua for scripting
+- Poseidon - TUI File explorer (Highly in development, written in C)
+- Compio - Factorio Like game written in C#
+- Hermes - "Meta-Compiler" written in C++
+- Dio - Minimalistic OOP based Language which compiles into Java Bytecode
+
 
 ## 🛠 Languages
 C • C++ • Java • Kotlin • Python • Rust
